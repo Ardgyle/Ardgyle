@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ardgyle
 - 👀 I’m interested in Ai MLL and Blockchain Development 
-- 🌱 I’m currently learning ML and Blockchain with Python, Javascrypt, Solidity...
+- 🌱 I’m currently learning ML and Blockchain with Python, Javascript, Solidity...
 - 💞️ I’m looking to collaborate on Python ML, Algo Trading and Blockchain Smart Contracts.
 - 📫 How to reach me ardgyle@gmail.com
 
